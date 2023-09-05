@@ -10,9 +10,9 @@ namespace Tyuiu.KonyushevskyAA.Sprint0.Task1.V0
     {
         static void Main(string[] args)
         {
-            Console.Write(" Hello,World ");
-            string name = " Алексей ";
-            int age = 45;
+            Console.WriteLine("Hello, World");
+            string name = "Алексей";
+            int age = 17;
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет! ");
             Console.ReadKey();
         }
